@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.Domain", "School.Domain\School.Domain.csproj", "{98822490-959F-490E-B037-CA12A410708A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.Infrastructura", "School.Infrastructura\School.Infrastructura.csproj", "{6CF06AA7-B40E-4C45-ABBF-D22FDA65B234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98822490-959F-490E-B037-CA12A410708A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98822490-959F-490E-B037-CA12A410708A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98822490-959F-490E-B037-CA12A410708A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98822490-959F-490E-B037-CA12A410708A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF06AA7-B40E-4C45-ABBF-D22FDA65B234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF06AA7-B40E-4C45-ABBF-D22FDA65B234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF06AA7-B40E-4C45-ABBF-D22FDA65B234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF06AA7-B40E-4C45-ABBF-D22FDA65B234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {090E008D-B725-4D5C-B3E1-0A599BCBAE15}
+	EndGlobalSection
+EndGlobal
